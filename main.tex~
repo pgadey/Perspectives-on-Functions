@@ -27,7 +27,7 @@
 \section{The MAT 135 Perspective}
 
 \begin{frame}[t]
-    \frametitle{Definition}
+    \frametitle{135 Definition}
     A function $f(x)$ is an assignment of a real number $x$ to some other unique real number. 
 
     \begin{itemize}
@@ -90,7 +90,7 @@
 \section{The MAT 137 Perspective}
 
 \begin{frame}[t]
-    \frametitle{Definition}
+    \frametitle{137 Definition}
     Given two sets $A$ and $B$, a function is a map $f: A \to B$ such that $f(a) \in B$ for all $a \in A$. In this case, $A$ is said to be the \emph{domain}, while $B$ is said to be the \emph{codomain}.
 
     \begin{itemize}
